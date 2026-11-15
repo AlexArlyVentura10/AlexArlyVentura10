@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hola, soy Alex Ventura 
 
-<!--
-**AlexArlyVentura10/AlexArlyVentura10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería de Sistemas en Lima, Perú, y me apasiona el desarrollo de software. Disfruto aprender de forma constante y convertir ese aprendizaje en proyectos reales que me permitan crecer como profesional.
 
-Here are some ideas to get you started:
+###  TECNOLOGIAS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Java` · `JavaScript` · `TypeScript` · `Python` · `SQL`
+
+###  SOBRE MI
+
+- Actualmente estoy fortaleciendo mis bases en programación y desarrollo de software.
+- Aprendo mejor cuando llevo la teoría a la práctica, así que suelo crear proyectos propios para afianzar lo que estudio.
+- Busco oportunidades que me permitan seguir creciendo como desarrollador y aportar con lo que voy aprendiendo.
+
+###  CONTACTO
+
+-  Lima, Perú
+-  LinkedIn: (www.linkedin.com/in/alexarlyventura)
