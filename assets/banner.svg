@@ -1,32 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-label="Alex Ventura - Backend and Software Dev">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="100%" stop-color="#161b22"/>
-    </linearGradient>
-    <radialGradient id="glow1" cx="0.85" cy="1.1" r="0.7">
-      <stop offset="0%" stop-color="#2dd4bf" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#2dd4bf" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glow2" cx="0.55" cy="-0.2" r="0.6">
-      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.25"/>
-      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse" patternTransform="rotate(-18)">
-      <path d="M0 0 H40 M0 0 V40" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
-    </pattern>
-    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#2dd4bf"/>
-      <stop offset="100%" stop-color="#8b5cf6"/>
-    </linearGradient>
-  </defs>
-  <rect width="1600" height="420" fill="url(#bg)"/>
-  <rect width="1600" height="420" fill="url(#grid)"/>
-  <rect width="1600" height="420" fill="url(#glow1)"/>
-  <rect width="1600" height="420" fill="url(#glow2)"/>
-  <text x="1290" y="305" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="240" font-weight="700" fill="#ffffff" fill-opacity="0.05">&lt;/&gt;</text>
-  <rect x="96" y="150" width="88" height="5" rx="2.5" fill="url(#bar)"/>
-  <text x="96" y="228" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="76" font-weight="800" fill="#ffffff" letter-spacing="-1">ALEX VENTURA</text>
-  <text x="98" y="278" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="20" fill="#2dd4bf" letter-spacing="6">BACKEND &amp; SOFTWARE DEV</text>
-  <text x="98" y="322" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15" fill="#8b949e" letter-spacing="3">LIMA · PERÚ</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <!-- Fondo -->
+  <rect width="1280" height="640" fill="#050505"/>
+
+  <!-- Pixeles cayendo - efecto Matrix pixelado -->
+  <g fill="#00FF41" shape-rendering="crispEdges">
+    <rect x="100" y="0" width="20" height="20"><animate attributeName="y" values="-40;700" dur="3s" repeatCount="indefinite"/></rect>
+    <rect x="250" y="0" width="20" height="20"><animate attributeName="y" values="-40;700" dur="4.5s" repeatCount="indefinite"/></rect>
+    <rect x="400" y="0" width="20" height="20"><animate attributeName="y" values="-40;700" dur="2.8s" repeatCount="indefinite"/></rect>
+    <rect x="550" y="0" width="20" height="20"><animate attributeName="y" values="-40;700" dur="5s" repeatCount="indefinite"/></rect>
+    <rect x="700" y="0" width="20" height="20"><animate attributeName="y" values="-40;700" dur="3.6s" repeatCount="indefinite"/></rect>
+    <rect x="850" y="0" width="20" height="20"><animate attributeName="y" values="-40;700" dur="4s" repeatCount="indefinite"/></rect>
+    <rect x="1000" y="0" width="20" height="20"><animate attributeName="y" values="-40;700" dur="3.2s" repeatCount="indefinite"/></rect>
+    <rect x="1150" y="0" width="20" height="20"><animate attributeName="y" values="-40;700" dur="4.8s" repeatCount="indefinite"/></rect>
+  </g>
+
+  <!-- Pixeles de colores flotando -->
+  <g shape-rendering="crispEdges" opacity="0.7">
+    <rect x="150" y="500" width="16" height="16" fill="#0A66C2"><animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/></rect>
+    <rect x="1100" y="150" width="16" height="16" fill="#00C853"><animate attributeName="opacity" values="0;1;0" dur="2.5s" repeatCount="indefinite"/></rect>
+    <rect x="80" y="120" width="16" height="16" fill="#FFD600"><animate attributeName="opacity" values="0;1;0" dur="1.8s" repeatCount="indefinite"/></rect>
+  </g>
+
+  <!-- Texto principal pixelado -->
+  <text x="640" y="290" text-anchor="middle" font-family="'Courier New', monospace" font-size="110" font-weight="bold" letter-spacing="8" fill="#00FF41">
+    ALEX VENTURA
+    <animate attributeName="opacity" values="1;0.7;1" dur="1.5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Subtitulo -->
+  <text x="640" y="360" text-anchor="middle" font-family="'Courier New', monospace" font-size="32" letter-spacing="6" fill="#FFFFFF">
+    BACKEND &amp; SOFTWARE DEV
+  </text>
+
+  <!-- Barra de carga pixelada animada -->
+  <rect x="340" y="430" width="600" height="24" fill="none" stroke="#00FF41" stroke-width="3"/>
+  <rect x="346" y="436" width="0" height="12" fill="#00FF41">
+    <animate attributeName="width" values="0;588;0" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="640" y="500" text-anchor="middle" font-family="'Courier New', monospace" font-size="22" fill="#00FF41">
+    &gt; LIMA • PERU_ 
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </text>
 </svg>
