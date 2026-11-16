@@ -1,6 +1,9 @@
-<div align="center">
 
-<img src="assets/banner.png" alt="Alex Ventura — Backend & Software Dev" width="100%" />
+<div align="center">
+  <img src="assets/banner.svg" alt="Alex Ventura - Backend & Software Dev" width="100%" />
+</div>
+
+# Alex Ventura
 
 # Alex Ventura
 
