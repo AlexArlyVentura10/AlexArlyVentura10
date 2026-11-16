@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" width="50%">
+<img src="assets/banner.svg" width="100%">
 
 <h1 style="color: red;">ALEX VENTURA</h1>
 
