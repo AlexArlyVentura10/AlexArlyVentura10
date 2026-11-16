@@ -31,7 +31,7 @@
 
 ### Proyectos
 
-| Proyecto | Qué resuelve | Stack |
+| Futuros Proyectos | Qué resuelve | Stack |
 | :--- | :--- | :--- |
 | **[Nombre del proyecto](https://github.com/AlexArlyVentura10/repo)** | Una línea explicando el problema real y cómo lo resuelve. | Java · Spring Boot · PostgreSQL |
 | **[Nombre del proyecto](https://github.com/AlexArlyVentura10/repo)** | Una línea explicando el problema real y cómo lo resuelve. | Python · FastAPI |
