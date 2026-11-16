@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="assets/banner.gif" alt="Alex Ventura - Backend & Software Dev" width="100%" />
+  <img src="assets/banner.svg" alt="Alex Ventura - Backend & Software Dev" width="100%" />
 </div>
 
- <h1 style= "color: red;">ALEX VENTURA </h1>
+<h1 style="color: red;">ALEX VENTURA</h1>
 
 **Estudiante de Ingeniería de Sistemas · Lima, Perú**
 
