@@ -1,6 +1,8 @@
 <div align="center">
   <img src="assets/banner.svg" alt="Alex Ventura - Backend & Software Dev" width="100%" />
 </div>
+
+<img src="assets/banner-pixel.svg" width="100%" />
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
   <!-- Fondo -->
   <rect width="1280" height="640" fill="#050505"/>
