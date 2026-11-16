@@ -1,4 +1,5 @@
 <img src="assets/banner.svg" width="100%">
+![Snake](https://raw.githubusercontent.com/AlexArlyVentura10/AlexArlyVentura10/output/github-contribution-grid-snake.svg)
 
 <h1 style="color: red;">ALEX VENTURA</h1>
 
