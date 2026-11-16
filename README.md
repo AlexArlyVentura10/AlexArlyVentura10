@@ -1,15 +1,16 @@
-<img src="assets/banner.svg" width="100%">
+<div align="center">
+  <img src="assets/banner.svg" width="100%" />
 
-<h1 style="color: red;">ALEX VENTURA</h1>
+  <h1 style="color: red;">ALEX VENTURA</h1>
 
-**Estudiante de Ingeniería de Sistemas · Lima, Perú**
+  **Estudiante de Ingeniería de Sistemas · Lima, Perú**
 
-Construyo software backend y herramientas que resuelven problemas concretos.
-Aprendo llevando la teoría a código que funciona, no a apuntes.
+  Construyo software backend y herramientas que resuelven problemas concretos.
+  Aprendo llevando la teoría a código que funciona, no a apuntes.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexarlyventura)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO@dominio.com)
-[![Portafolio](https://img.shields.io/badge/Portafolio-111111?style=for-the-badge&logo=firefox&logoColor=white)](https://TU-PORTafOLIO.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexarlyventura)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexarly23@gmail.com)
+  [![Portafolio](https://img.shields.io/badge/Portafolio-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexArlyVentura10)
 
 </div>
 
