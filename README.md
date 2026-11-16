@@ -3,9 +3,7 @@
   <img src="assets/banner.svg" alt="Alex Ventura - Backend & Software Dev" width="100%" />
 </div>
 
-# Alex Ventura
-
-# Alex Ventura
+# <p style = "coolor: red;>ALEX VENTURA </p>
 
 **Estudiante de Ingeniería de Sistemas · Lima, Perú**
 
